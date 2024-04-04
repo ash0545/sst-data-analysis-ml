@@ -1,0 +1,1 @@
+Canada Meteorological Center. 2012. CMC 0.2 deg global sea surface temperature analysis. Ver. 2.0. PO.DAAC, CA, USA. Dataset accessed 2023-10-29 at https://doi.org/10.5067/GHCMC-4FM02
